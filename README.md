@@ -27,10 +27,10 @@ A comprehensive maritime security simulation tool that integrates AIS (Automatic
 ## Screenshots
 
 **AIS Monitoring Interface**  
-![AIS Monitoring Screenshot](./screenshots/ais_monitoring.png)  
+![AIS Monitoring Screenshot](AIS.png)  
 
 **X-ray Scan with Explosive Detection**  
-![X-ray Scan Screenshot](./screenshots/xray_explosive.png)  
+![X-ray Scan Screenshot](x ray scanner.png)  
 
 ## Installation
 
