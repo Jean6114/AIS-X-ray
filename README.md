@@ -36,5 +36,5 @@ A comprehensive maritime security simulation tool that integrates AIS (Automatic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/maritime-security-simulator.git
-   cd maritime-security-simulator
+   https://github.com/Jean6114/AIS-X-ray.git
+   cd AIS-X-ray
